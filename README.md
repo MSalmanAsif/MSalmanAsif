@@ -17,11 +17,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&layout=compact&theme=radical&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSalmanAsif&theme=radical&hide_border=true" height="160" />
 </p>
+
+> ✅ **Notes**:  
+> - `count_private=true` ensures private repos contribute to **Top Languages** and overall stats.  
+> - Streak now displays via `github-readme-streak-stats` (make sure private contributions are enabled in your GitHub profile settings).
 
 ---
 
