@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm M Salman Asif 👋  
 
-<!--
-**MSalmanAsif/MSalmanAsif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 💻 Exploring full-stack development & modern web technologies  
+- 📚 Always learning and building projects to sharpen my skills  
+- 🎯 Interested in problem-solving and creating practical solutions  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+- **Languages:** JavaScript, Python, C++  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, VS Code, Cursor, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&theme=tokyonight)  
+
+### 🌐 Connect With Me  
+- GitHub: [@MSalmanAsif](https://github.com/MSalmanAsif)  
+- LinkedIn: *(add your link here)*  
+- Twitter/X: *(add if you want)*  
+
+---
+⭐️ From [MSalmanAsif](https://github.com/MSalmanAsif)
