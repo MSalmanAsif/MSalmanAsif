@@ -24,21 +24,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSalmanAsif&theme=radical&hide_border=true" height="160" />
 </p>
 
-> ✅ **Notes**:  
-> - `count_private=true` ensures private repos contribute to **Top Languages** and overall stats.  
-> - Streak now displays via `github-readme-streak-stats` (make sure private contributions are enabled in your GitHub profile settings).
-
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/MSalmanAsif" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/your-link" target="https://www.linkedin.com/in/msalmanasif/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter"/>
-  </a>
+  
 </p>
