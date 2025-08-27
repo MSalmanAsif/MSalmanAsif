@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**MSalmanAsif/MSalmanAsif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering undergrad aiming to become a full‑stack developer. I enjoy turning ideas into user‑friendly products and writing clean, maintainable code.
 
-Here are some ideas to get you started:
+### Skills
+- **Frontend**: HTML, CSS, JavaScript
+- **Programming/Backend**: Python, C#, C++
+- **Design**: Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm focusing on
+- Strengthening full‑stack fundamentals
+- Building projects that cover UI, APIs, and data
+
+### Collaboration
+- Open to collaborating on web apps, dashboards, and helpful developer tools
+
+### Get in touch
+- Email: add-your-email-here
+- LinkedIn: add-your-linkedin-here
+- Portfolio: add-your-portfolio-link-here
+
+Thanks for visiting!
