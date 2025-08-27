@@ -29,7 +29,7 @@
 ### 🌐 Connect With Me
 <p align="center">
   </a>
-  <a href="https://www.linkedin.com/in/your-link" target="https://www.linkedin.com/in/msalmanasif/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/msalmanasif/" target="https://www.linkedin.com/in/msalmanasif/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
   </a>
   
