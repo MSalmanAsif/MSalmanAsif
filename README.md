@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&layout=compact&theme=radical&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=8&hide=html" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSalmanAsif&theme=radical&hide_border=true" height="160" />
 </p>
 
@@ -31,5 +31,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/msalmanasif/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nosherwanasif15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/s4lmanxx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
   </a>
 </p>
