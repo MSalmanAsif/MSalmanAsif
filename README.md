@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&count_private=true&theme=radical&hide_border=true&token=PAT_1" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10&token=PAT_1" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&count_private=true&theme=radical&hide_border=true&token=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" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10&token=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" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSalmanAsif&theme=radical&hide_border=true" height="160" />
 </p>
 
