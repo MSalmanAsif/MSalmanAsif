@@ -26,15 +26,15 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&count_private=true&theme=radical&hide_border=true&token=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" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSalmanAsif&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
 
-### 📈 Languages (Public + Private Repos)
+### 📈 Languages (Public Repos Only)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MSalmanAsif/MSalmanAsif/main/github-metrics.svg" alt="Languages stats including private repos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&langs_count=10&layout=compact&theme=radical&hide_border=true" height="200"/>
 </p>
 
 ---
