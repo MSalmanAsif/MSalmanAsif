@@ -34,7 +34,8 @@
 
 ### 📈 Languages (Public Repos Only)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&langs_count=10&layout=compact&theme=radical&hide_border=true" height="200"/>
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&langs_count=10&layout=compact&theme=radical&hide_border=true" height="200"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&langs_count=10&layout=compact&theme=radical&hide_border=true&cache_seconds=1800
+)
 </p>
 
 ---
