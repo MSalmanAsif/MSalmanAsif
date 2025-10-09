@@ -29,8 +29,8 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSalmanAsif&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&theme=radical&hide_border=true&cache_seconds=60" height="160" />
+  <img src="https://streak-stats.demolab.com?user=MSalmanAsif&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
