@@ -1,57 +1,92 @@
-<h1 align="center">Hi, I'm M Salman Asif 👋</h1>
-<p align="center">Undergraduate Student | Passionate About Learning & Exploring Technology</p>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  salman@kiet:~                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+```bash
+$ whoami
+```
+```
+M Salman Asif  —  CS Undergrad @ KIET, Karachi
+role    : Full-Stack Developer (in progress)
+mission : Ship things. Break things. Learn fast.
+status  : ▸ open to internship opportunities
+```
 
 ---
 
-### ⚡ Tech Stack
+```bash
+$ ls skills/ --group
+```
+```
+frontend/    React  TypeScript  Tailwind CSS  Vite  HTML5  CSS3
+backend/     Node.js  Express.js  FastAPI  ASP.NET Core  EJS
+databases/   MongoDB  SQL  Firebase  Appwrite
+languages/   Python  C#  JavaScript  C++  Java  C
+tools/       n8n  npm  Git  Selenium
+```
+
+---
+
+```bash
+$ git log --oneline --stat HEAD~3
+```
+```
+a3f9c1d  feat: HireHub — smart hiring platform                  [SCD · 13/15]
+         ASP.NET Core · C# · Layered Architecture · SOLID · DI · Repository Pattern
+         → github.com/MSalmanAsif/hiring-platform-SCD-Principles-
+
+7d2be08  build: Virtual Memory Management Simulator
+         C · FIFO / LRU / OPT · Software TLB · Bélády's Anomaly
+
+c19a3f2  chore: startup work @ 7C Report
+         Dev + Creative · Karachi
+```
+
+---
+
+```bash
+$ cat github-stats.json
+```
+
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=fff" />
-  <img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=fff" />
-  <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=fff" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" />
-  <img alt="EJS" src="https://img.shields.io/badge/-EJS-8BC500?style=for-the-badge&logo=ejs&logoColor=fff" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=fff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF9900&icon_color=FF9900&text_color=B0A080&cache_seconds=60" height="160" />
+  <img src="https://streak-stats.demolab.com?user=MSalmanAsif&theme=radical&hide_border=true&background=0D0D0D&fire=FF9900&ring=FF9900&currStreakLabel=FF9900&sideLabels=B0A080&dates=555555" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF9900&text_color=B0A080&cache_seconds=60" height="160"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&theme=radical&hide_border=true&cache_seconds=60" height="160" />
-  <img src="https://streak-stats.demolab.com?user=MSalmanAsif&theme=radical&hide_border=true" height="160" />
+```bash
+$ ping salman --connect
+```
+```
+PING salman (0.0.0.1) — routes available:
+
+  64 bytes via  linkedin.com/in/msalmanasif   ← preferred
+  64 bytes via  nosherwanasif15@gmail.com
+  64 bytes via  instagram.com/s4lmanxx
+```
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/msalmanasif/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" /></a>&nbsp;
+  <a href="mailto:nosherwanasif15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=fff" /></a>&nbsp;
+  <a href="https://www.instagram.com/s4lmanxx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=fff" /></a>&nbsp;
+  <a href="https://github.com/MSalmanAsif"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=fff" /></a>
 </p>
 
 ---
 
-### 📈 Languages (Public Repos Only)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&langs_count=10&layout=compact&theme=radical&hide_border=true&cache_seconds=60" height="200"/>
-</p>
+```bash
+$ echo $MOTTO
+"Build first. Refactor later. Ship always."
+```
 
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/msalmanasif/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nosherwanasif15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/s4lmanxx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/>
-  </a>
-</p>
+```
+Process exited with code 0  ·  uptime: 20 years  ·  location: Karachi, PK
+salman@kiet:~$ █
+```
