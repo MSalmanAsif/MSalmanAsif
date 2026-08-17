@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm M Salman Asif 👋</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <b>BS Software Engineering Student</b> • Full Stack Developer • Automation Architect
@@ -7,17 +7,6 @@
 <p align="center">
   Building scalable web applications, workflow automations, and exploring AI-driven solutions.
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 BS Software Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Building AI & Automation Workflows with n8n
-- 🌐 Developing modern web applications using React & Node.js
-- 📈 Interested in Tech, Startups, and Financial Markets
-- 🚀 Always learning and exploring new technologies
 
 ---
 
@@ -44,49 +33,6 @@
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=fff" />
 
 </p>
-
----
-
-## 🔥 What I Do
-
-<p align="center">
-
-<img alt="Full Stack Developer" src="https://img.shields.io/badge/-Full%20Stack%20Developer-2563EB?style=for-the-badge" />
-<img alt="Automation Architect" src="https://img.shields.io/badge/-Automation%20Architect-8A2BE2?style=for-the-badge&logo=n8n&logoColor=fff" />
-<img alt="AI Enthusiast" src="https://img.shields.io/badge/-AI%20Enthusiast-10B981?style=for-the-badge&logo=openai&logoColor=fff" />
-<img alt="Problem Solver" src="https://img.shields.io/badge/-Problem%20Solver-F59E0B?style=for-the-badge" />
-<img alt="Startup Builder" src="https://img.shields.io/badge/-Startup%20Builder-EF4444?style=for-the-badge" />
-<img alt="Tech & Markets" src="https://img.shields.io/badge/-Tech%20%26%20Markets-06B6D4?style=for-the-badge&logo=tradingview&logoColor=fff" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSalmanAsif&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=MSalmanAsif&theme=radical&hide_border=true" height="170" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalmanAsif&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- Building Full Stack Applications
-- AI & Workflow Automation
-- Backend Development with Node.js
-- Software Architecture & Design
-- Learning Advanced System Design
-- Exploring Startup Opportunities
 
 ---
 
